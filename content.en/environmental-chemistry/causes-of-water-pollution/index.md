@@ -4,12 +4,12 @@ weight: 6
 ---
 
 
-**(i) Microbiological (Pathogens)**
+**1. Microbiological (Pathogens)**
 
 Disease causing microorganisms like bacteria, viruses and protozoa are most serious water pollutants.
 They come from domestic sewage and animal excreta. Fish and shellfish can become contaminated and people who eat them can become ill. Some serious diseases like polio and cholera are water borne diseases.Human excreta contain bacteria such as Escherichia coli and Streptococcus faecalis which cause gastrointestinal diseases
 
-**(ii) Organic wastes:**
+**2. Organic wastes:**
 
 Organic matter such as leaves, grass, trash etc can also pollute water. Water pollution is caused by excessive phytoplankton growth within water.
 Microorganisms present in water decompose these organic matter and consume dissolved oxygen in water.
@@ -33,7 +33,7 @@ BOD measurement takes 5 days so another parameter called the Chemical Oxygen Dem
 
 Chemical oxygen demand (COD) is defined as the amount of oxygen required by the organic matter in a sample of water for its oxidation by a strong oxidising agent like K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> in acid medium for a period of 2 hrs.
 
-**(iii) Chemical wastes:**
+**3. Chemical wastes:**
 
 A whole variety of chemicals from industries, such as metals and solvents are poisonous to fish and other aquatic life.
 

@@ -64,7 +64,7 @@ The oxides of nitrogen are converted into nitric acid which comes down in the fo
 
 The major pollutants of oxides of carbon are carbon monoxide and carbon dioxide.
 
-**(i) Carbon Monoxide**
+**1. Carbon Monoxide**
 
 Carbon monoxide is a poisonous gas produced as a result of incomplete combustion of coal or firewood. It is released into the air mainly by automobile exhaust. It binds with haemoglobin
 
@@ -75,7 +75,7 @@ Carbon monoxide is a poisonous gas produced as a result of incomplete combustion
 
 and forms carboxy haemoglobin which impairs normal oxygen transport by blood and hence the oxygen carrying capacity of blood is reduced. This oxygen deficiency results in headache, dizziness, tension, Loss of consciousness, blurring of eye sight and cardiac arrest.
 
-**(ii) Carbon dioxide**
+**2. Carbon dioxide**
 
 Carbon dioxide is released into the atmosphere mainly by the process of respiration, burning of fossil fuels, forest fire, decomposition of limestone in cement industry etc.
 
@@ -131,18 +131,18 @@ $\ce{ 4NO2 + O2 + 2H2O-> 4HNO3}$
 
 **Some harmful effects are discussed below.**
 
-(i) Acid rain causes extensive damage to buildings and structural materials of marbles. This attack on marble is termed as Stone leprosy.
+1. Acid rain causes extensive damage to buildings and structural materials of marbles. This attack on marble is termed as Stone leprosy.
 
 $\ce{ CaCO3 + H2SO4-> CaSO4 + H2O +CO2↑}$
 
 
-(ii) Acid rain affects plants and animal life in aquatic ecosystem.
+2. Acid rain affects plants and animal life in aquatic ecosystem.
 
-(iii) It is harmful for agriculture, trees and plants as it dissolves and removes the nutrients needed for their growth.
+3. It is harmful for agriculture, trees and plants as it dissolves and removes the nutrients needed for their growth.
 
-(iv) It corrodes water pipes resulting in the leaching of heavy metals such as iron, lead and copper into drinking water which have toxic effects.
+4. It corrodes water pipes resulting in the leaching of heavy metals such as iron, lead and copper into drinking water which have toxic effects.
 
-(v) It causes respiratory ailment in humans and animals.
+5. It causes respiratory ailment in humans and animals.
 
 **Fig  3. Effect Of Acid Rain On Tajmahal**
 ![Effect Of Acid Rain On Tajmahal](15.3-taj-mahal.png)
@@ -169,7 +169,7 @@ The viable particulates are the small size living organisms such as bacteria, fu
 
 The non- viable particulates are small solid particles and liquid droplets suspended in air. They help in the transportation of viable particles. There are four types of non- viable particulates in the atmosphere. They are classified according to their nature and size as follows
 
-**(i) Smoke**
+**1. Smoke**
 
 Smoke particulate consists of solid particles (or) mixture of solid and liquid  
 
@@ -177,19 +177,19 @@ particles formed by combustion of organic matter.
 
 For example, cigarette smoke, oil smoke, smokes from burning of fossil fuel, garbage and dry leaves.
 
-**(ii) Dust:**
+**2. Dust:**
 
 Dust composed of fine solid particles produced during crushing and grinding of solid materials.
 
 For example, sand from sand blasting, saw dust from wood works, cement dust from cement factories and fly ash from power generating units.
 
-**(iii) Mists**
+**3. Mists**
 
 They are formed by particles of spray liquids and condensation of vapours in air.
 
 For example, sulphuric acid mist, herbicides and insecticides sprays can form mists.
 
-**(iv) Fumes**
+**4. Fumes**
 
 Fumes are obtained by condensation of vapours released during sublimation, distillation, boiling and calcination and by several other chemical reactions.
 
@@ -197,7 +197,7 @@ For example, organic solvents, metals and metallic oxides form fume particles.
 
  Health effects of particulate pollutants:**
 
-i. Dust, mist, fumes,etc., are air borne particles which are dangerous for human health. Particulate pollutants
+1. Dust, mist, fumes,etc., are air borne particles which are dangerous for human health. Particulate pollutants
 
 
 
@@ -206,13 +206,13 @@ i. Dust, mist, fumes,etc., are air borne particles which are dangerous for human
 
 bigger than 5 microns are likely to settle in the nasal passage whereas particles of about 10 micron enters the lungs easily and causes scaring or fibrosis of lung lining. They irritate the lungs and causes cancer and asthma. This disease is also called pneumoconiosis. Coal miners may suffer from black lung disease. Textile workers may suffer from white lung disease.
 
-ii. Lead particulates affect children’s brain, interferes maturation of RBCs and even cause cancer.
+2. Lead particulates affect children’s brain, interferes maturation of RBCs and even cause cancer.
 
-iii. Particulates in the atmosphere reduce visibility by scattering and absorption of sunlight. It is dangerous for aircraft and motor vehicles
+3. Particulates in the atmosphere reduce visibility by scattering and absorption of sunlight. It is dangerous for aircraft and motor vehicles
 
-iv. Particulates provide nuclei for cloud formation and increase fog and rain.
+4. Particulates provide nuclei for cloud formation and increase fog and rain.
 
-v. Particulates deposit on plant leaves and hinder the intake of CO<sub>2</sub> from the air and affect photosynthesis.
+5. Particulates deposit on plant leaves and hinder the intake of CO<sub>2</sub> from the air and affect photosynthesis.
 
 ## Techniques to reduce particulate pollutants
 
@@ -222,13 +222,13 @@ The particulates from air can be removed by using electrostatic precipitators, g
 
 Smog is a combination of smoke and fog which forms droplets that remain suspended in the air.  
 
-**Fig 15.4 classical smog**
+**Fig 4 classical smog**
 ![classical smog](15.4-classical-smog.png)
 
 Smog is a chemical mixture of gases that forms a brownish yellow haze over urban cities.Smog mainly consists of ground level ozone, oxides of nitrogen, volatile organic compounds, SO<sub>2</sub>, acidic aerosols and gases, and particulate matter.
 
 There are two types of smog. One is Classical smog caused by coal smoke and fog , second one is photo chemical smog caused by photo chemical oxidants.They are discussed below in detail.
-**(i) Classical smog or London smog**
+**1. Classical smog or London smog**
 
 Classical smog was first observed in London in December 1952 and hence it is also known as London smog. It consists of coal smoke and fog.
 
@@ -257,7 +257,7 @@ The great smog of London, or great smog of 1952, was a severe
 
 air-pollution event that affected the British capital of London in early December 1952. It lasted from Friday, 5 December to Tuesday, 9 December 1952 and then dispersed quickly when the weather changed. It caused major disruption by reducing visibility and even penetrating indoor areas. Government medical reports in the following weeks, however, estimated that until 8 December, 4,000 people had died as a direct result of the smog and 100,000 more were made ill by the smog's effects on the human respiratory tract.
 
->**ii)Photo chemical smog or Los Angel Smog**
+>**2.Photo chemical smog or Los Angel Smog**
 >
 >Photo Chemical smog was first observed in Los Angels in 1950. It occurs in warm, dry and sunny climate.This type  
 of smog is formed by the combination of smoke, dust and fog with air pollutants like oxides of nitrogen and hydrocarbons in the presence of sunlightIt forms when the sun shines and becomes worse in the afternoon. Chemically it is oxidizing in nature because of high concentration of oxidizing agents NO<sub>2</sub> and O<sub>3</sub>, so it is also called as oxidizing smog.

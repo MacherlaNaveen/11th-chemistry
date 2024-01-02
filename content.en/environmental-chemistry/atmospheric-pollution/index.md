@@ -21,15 +21,15 @@ Earth’s atmosphere can be divided into different layers with characteristic al
 
 The lowest layer of the atmosphere is called the troposphere and it extends from 0 – 10 km from the earth surface. About 80% of the mass of the atmosphere is in this layer. This troposphere is further divided as follows.
 
-**i) Hydrosphere:**
+**1. Hydrosphere:**
 
 Hydrosphere includes all types of water sources like oceans, seas, rivers, lakes, streams, underground water, polar icecaps, clouds etc. It covers about 75% of the earth’s surface. Hence the earth is called as a blue planet.
 
-**ii) Lithosphere:**
+**2. Lithosphere:**
 
 Lithosphere includes soil, rocks and mountains which are solid components of earth.
 
-**iii) Biosphere:**
+**3. Biosphere:**
 
 It includes the lithosphere hydrosphere and atmosphere intergrating  
 

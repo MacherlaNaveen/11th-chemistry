@@ -13,9 +13,9 @@ $\ce{O (g) + O2 (g)  ->[{ uv}]O3(g)}$
 
 Ozone gas is thermodynamically unstable and readily decomposes to molecular oxygen
 
-**15.4.1 Depletion of Ozone Layer (Ozone hole)**
+# Depletion of Ozone Layer (Ozone hole)
 
-**Fig 15.5 Ozone Depletion**
+**Fig 5 Ozone Depletion**
 ![Ozone Depletion](ozone-layer.png)
 
 In recent years, a gradual depletion of this protective ozone layer has been reported. Nitric oxide and CFC are found to be most responsible for depletion of ozone layer.
@@ -59,7 +59,7 @@ Chlorine radical is regenerated in the course of reaction. Due to this continuou
 
 It is estimated that for every reactive chlorine atom generated in the stratosphere 1,00,000 molecules of ozone are depleted.
 
-**15.4.2 Environmental Impact of Ozone Depletion**
+# Environmental Impact of Ozone Depletion
 
 The formation and destruction of ozone is a regular natural process, which never disturbs the equilibrium level of ozone  
 
