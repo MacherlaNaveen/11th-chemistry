@@ -481,7 +481,7 @@ Efforts to control environmental pollution resulted in development of science fo
 27. Mention the standards prescribed by BIS for quality of drinking water
 
 
-28. How does classical smog differ from photochemical smog?
+28. How does classical smog differ from photochemical  smog?
 
 
 
